@@ -154,19 +154,22 @@
              </ul> 
      </div>  
    </section>  
-
-    <section id="resume">
+  <section id="resume">
     
         <div class="section-content">
             <center>
             <h2>Resume</h2>
-            <a href="file .pdf"target="_blank" class="download-button">Download CV</a>
+            <a href="file.pdf" target="_bla<section id="resume">
+    
+        <div class="section-content">
+            <center>
+            <h2>Resume</h2>
+            <a href="file.pdf" target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
-    </section>
-
-    <footer>
+        
+ <footer>
         <p>&copy; 2025 MOHANA PRIYA A</p>
     </footer>
 
