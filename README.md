@@ -1,4 +1,3 @@
-
 <html>
 <head>
     <title>Portfolio</title>
@@ -156,12 +155,8 @@
    </section>  
   <section id="resume">
     
-        <div class="section-content">
-            <center>
-            <h2>Resume</h2>
-            <a href="file.pdf" target="_bla<section id="resume">
-    
-        <div class="section-content">
+
+    <div class="section-content">
             <center>
             <h2>Resume</h2>
             <a href="file.pdf" target="_blank" class="download-button">Download CV</a>
