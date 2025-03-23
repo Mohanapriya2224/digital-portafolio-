@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./image/profile.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="passport photo.jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>MOHANA PRIYA A</h1>
             <p>Am BSC ComputerScience</p>
         </div>
@@ -123,7 +123,7 @@
     <section id="education">
         <div class="section-content">
             <h2>Education</h2>
-            <p>univercity of madras</p>
+            <p>university of madras</p>
             
             
         </div>
@@ -159,8 +159,8 @@
     
         <div class="section-content">
             <center>
-            <h2>Resume.pdf</h2>
-            <a href="passport photo.jpg" target="_blank" class="download-button">Download CV</a>
+            <h2>Resume</h2>
+            <a href="resume.pdf"target="_blank" class="download-button">Download CV</a>
         </center>
         </div>
         
